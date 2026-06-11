@@ -1,3 +1,5 @@
+# Use to run MCP4822 DAC
+
 Make sure to add mcp48xx.py into lib folder on IBM4
 
 
